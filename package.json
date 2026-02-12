@@ -13,16 +13,16 @@
     "dependencies": {
         "@frontify/app-bridge": "3.0.0-beta.25",
         "@frontify/fondue": "12.0.0-beta.20",
-        "react": "^17.0.2",
-        "react-dom": "^17.0.2",
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0",
         "root": "github:Frontify/guideline-blocks#main"
     },
     "devDependencies": {
         "@frontify/eslint-config-react": "0.15.2",
         "@frontify/frontify-cli": "5.10.1",
         "@frontify/guideline-blocks-settings": "0.25.0",
-        "@types/react": "17.0.91",
-        "@types/react-dom": "17.0.26",
+        "@types/react": "19.2.14",
+        "@types/react-dom": "19.2.3",
         "autoprefixer": "10.4.24",
         "eslint": "8.57.1",
         "postcss": "8.5.6",
