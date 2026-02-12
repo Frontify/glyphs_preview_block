@@ -18,7 +18,7 @@
         "root": "github:Frontify/guideline-blocks#main"
     },
     "devDependencies": {
-        "@frontify/eslint-config-react": "0.15.2",
+        "@frontify/eslint-config-react": "1.0.11",
         "@frontify/frontify-cli": "5.10.1",
         "@frontify/guideline-blocks-settings": "0.25.0",
         "@types/react": "17.0.91",
